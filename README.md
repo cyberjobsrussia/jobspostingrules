@@ -11,7 +11,7 @@
 Все остальные вакансии платные.
 
 ## Условия платных вакансий
-Можно посмотреть [здесь]([Ком.пред.Cybersec.pdf](https://github.com/cyberjobsrussia/jobspostingrules/files/10951004/Cybersec.pdf)
+Можно посмотреть -  [Ком.пред.Cybersec.pdf](https://github.com/cyberjobsrussia/jobspostingrules/files/10951004/Cybersec.pdf)
 )
 Оплата производится путем выставления счета или путем перевода по реквизитам.
 
